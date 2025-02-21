@@ -17,6 +17,11 @@
 - 2025-06-10 - Przedstawienie finalnych projektów
 
 ## Narzędzia
+a) Promptowanie 
+https://www.together.ai/ 
+https://ollama.com/
+https://cloud.google.com/model-garden?hl=en 
 
 ## Tematy
+
 ##  
