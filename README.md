@@ -22,6 +22,9 @@ a) Promptowanie
 - https://ollama.com/
 - https://cloud.google.com/model-garden?hl=en 
 
-## Tematy
+## Tematy zaliczenia
+
+a) Podstawowe 
+b) Zaawansowane
 
 ##  
