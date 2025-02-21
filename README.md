@@ -18,9 +18,9 @@
 
 ## Narzędzia
 a) Promptowanie 
-https://www.together.ai/ \\
-https://ollama.com/
-https://cloud.google.com/model-garden?hl=en 
+- https://www.together.ai/ 
+- https://ollama.com/
+- https://cloud.google.com/model-garden?hl=en 
 
 ## Tematy
 
