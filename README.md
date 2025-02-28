@@ -31,3 +31,6 @@ b) Zaawansowane
 - Punkty za prace domowe: 1) Techniczną z LLM-ów 2) Psychologia w LLM-ach.
 - Aktywność
 - Osiągnięcie kamnieni milowych
+
+## Ciekawe githuby
+-https://github.com/kasperjunge/LLM-Guide 
