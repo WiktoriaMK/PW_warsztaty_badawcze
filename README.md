@@ -28,8 +28,6 @@ a) Podstawowe
 b) Zaawansowane
 
 ## Dodatkowa punktacja
-
-1. Prezentacja artykułu
-2. Praca domowa - wstępna LLM
-3. Praca domowa - psychologii LLM
-4. Kamienie milowe 
+- Punkty za prace domowe: 1) Techniczną z LLM-ów 2) Psychologia w LLM-ach.
+- Aktywność
+- Osiągnięcie kamnieni milowych
