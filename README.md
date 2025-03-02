@@ -8,12 +8,12 @@
 - 2025-03-25 - Omówienie i dyskusja literatury - grupa 4,5
 - 2025-04-01 - Dyskusja projektów 
 - 2025-04-08 - Konsultacje projektów indywidualnych (on-line)
-- 2025-04-15 - Konsultacje projektów indywidualnych (on-line)
-- 2025-04-29 - Konsultacje projektów indywidualnych (on-line) -> Kamień milowy nr 1 
-- 2025-05-06 - Przedstawienie postępów projektów 
-- 2025-05-20 - Konsultacje projektów indywidualnych -> Kamień milowy nr 2 
+- 2025-04-15 - Przedstawienie postępów projektów  -> Kamień milowy nr 1 
+- 2025-04-29 - Konsultacje projektów indywidualnych (on-line) 
+- 2025-05-06 - Przedstawienie postępów projektów -> Kamień milowy nr 2 
+- 2025-05-20 - Konsultacje projektów indywidualnych 
 - 2025-05-27 - Konsultacje projektów indywidualnych
-- 2025-06-03 - Konsultacje projektów indywidualnych
+- 2025-06-03 - Przedstawienie finalnych projektów
 - 2025-06-10 - Przedstawienie finalnych projektów
 
 ## Narzędzia
