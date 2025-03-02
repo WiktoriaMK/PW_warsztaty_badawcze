@@ -56,4 +56,8 @@ Artykuł analizuje, jak można kontrolować i edytować cechy osobowości w LLM,
 
 Artykuł ten bada, czy duże modele językowe (LLM) są w stanie symulować ludzkie zachowania i osobowości. Wykorzystuje rygorystyczne metodologie psychometryczne do oceny, czy LLM mogą naśladować latentne konstrukty psychologiczne, które wpływają na zachowania w różnych zadaniach. Badacze użyli szablonu do zapytań, który zawierał instrukcję dotyczącą osobowości, opis persony, instrukcję testową, treść pytań.
 
+-Komunikacja
+
+Grupa na Slacku: https://join.slack.com/share/enQtODUzNjA0NTgwOTAxMS00OTk1YWJkMTZlNzRhNjAyMjJjODk4OTI0ZWUxMTg5YWNiMzQ0MTMxODU3MDhkMDAzZmFmOWM0YjUxZjAxNTM1 
+
 
