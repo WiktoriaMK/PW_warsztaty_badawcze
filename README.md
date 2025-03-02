@@ -3,7 +3,7 @@
 ## Rozkład zajęć 
 - 2025-02-25 - Prezentacja tematyki projektów
 - 2025-03-04 - Zajęcie organizacyjne + wprowadzenie do LLM-ów 
-- 2025-03-11 - Wrowadzenie teoretyczne do psychologii osobowości + omówienie artykułów 
+- 2025-03-11 - Wprowadzenie teoretyczne do psychologii osobowości + omówienie artykułów 
 - 2025-03-18 - Omówienie i dyskusja literatury - grupa 1,2,3 
 - 2025-03-25 - Omówienie i dyskusja literatury - grupa 4,5
 - 2025-04-01 - Dyskusja projektów 
