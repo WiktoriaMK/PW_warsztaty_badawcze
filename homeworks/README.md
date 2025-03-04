@@ -1,1 +1,9 @@
-Directory for all homeworks
+## Praca domowa LLMs
+
+W podanym pliku zaszyfrowanych jest 10 zdań (każde w inny sposób). Zadanie polega na wczytaniu pliku do Jupyter Notebooka, użyciu modelu LLM (przez API lub lokalnie postawionego) i sprawienie, aby model odszyfrował zdania. Wynik należy zapisać do pliku.
+
+### Co dostarczyć:
+- kod w Jupyter Notebooku z ładnymi komentarzami
+- nagranie ekranu, na którym opisujecie i pokazujecie, co zrobiliście i jak działa
+
+Zachęcamy do eksperymentowania z promptami, różnymi parametrami modeli oraz różnymi modelami.
