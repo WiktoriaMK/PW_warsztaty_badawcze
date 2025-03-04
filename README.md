@@ -1,4 +1,4 @@
-# PW_warsztaty_badawcze
+# Warsztaty Badawcze - Grupa: Osobowość w sztucznej inteligencji: czy modele językowe potrzebują psychologii?
 
 ## Rozkład zajęć 
 - 2025-02-25 - Prezentacja tematyki projektów
@@ -56,6 +56,16 @@ Artykuł analizuje, jak można kontrolować i edytować cechy osobowości w LLM,
 
 Artykuł ten bada, czy duże modele językowe (LLM) są w stanie symulować ludzkie zachowania i osobowości. Wykorzystuje rygorystyczne metodologie psychometryczne do oceny, czy LLM mogą naśladować latentne konstrukty psychologiczne, które wpływają na zachowania w różnych zadaniach. Badacze użyli szablonu do zapytań, który zawierał instrukcję dotyczącą osobowości, opis persony, instrukcję testową, treść pytań.
 
+## Punktacja
+max. 60 punktów:
+
+1. 2 prace domowe : 4 pkt każda, łącznie max. 8 punktów 
+2. Prezentacja literatury : 12 pkt 
+3. Projekt :
+   - Kamień milowy 1 -> 10 pkt
+   - Kamień milowy 2 -> 20 pkt
+   - Prezentacja projektu -> 10 pkt
+   
 ## Komunikacja
 
 Grupa na Slacku: https://join.slack.com/share/enQtODUzNjA0NTgwOTAxMS00OTk1YWJkMTZlNzRhNjAyMjJjODk4OTI0ZWUxMTg5YWNiMzQ0MTMxODU3MDhkMDAzZmFmOWM0YjUxZjAxNTM1 
