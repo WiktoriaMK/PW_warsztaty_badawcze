@@ -7,3 +7,7 @@ W podanym pliku zaszyfrowanych jest 10 zdań (każde w inny sposób). Zadanie po
 - nagranie ekranu, na którym opisujecie i pokazujecie, co zrobiliście i jak działa
 
 Zachęcamy do eksperymentowania z promptami, różnymi parametrami modeli oraz różnymi modelami.
+
+### Deadline
+
+18.03.2025 14.00
