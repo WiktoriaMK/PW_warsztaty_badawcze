@@ -10,4 +10,4 @@ Zachęcamy do eksperymentowania z promptami, różnymi parametrami modeli oraz r
 
 ### Deadline
 
-18.03.2025 14.00
+16.03.2025 23.59
