@@ -56,6 +56,11 @@ Artykuł analizuje, jak można kontrolować i edytować cechy osobowości w LLM,
 
 Artykuł ten bada, czy duże modele językowe (LLM) są w stanie symulować ludzkie zachowania i osobowości. Wykorzystuje rygorystyczne metodologie psychometryczne do oceny, czy LLM mogą naśladować latentne konstrukty psychologiczne, które wpływają na zachowania w różnych zadaniach. Badacze użyli szablonu do zapytań, który zawierał instrukcję dotyczącą osobowości, opis persony, instrukcję testową, treść pytań.
 
+-Safdari, M., Serapio-García, G., Crepy, C., Fitz, S., Romero, P., Sun, L., Fitz, S., Romero, P., Abdulhai, M., Faust, A. & Matarić, M. (2023). Personality traits in large language models. https://arxiv.org/abs/2307.00184
+Artykuł bada pomiar i kształtowanie osobowości w dużych modelach językowych (LLM). Sprawdza, czy LLM-y wiarygodnie symulują ludzką osobowość i czy można ją kształtować za pomocą strukturyzowanych podpowiedzi i testów osobowości.
+
+-Wilczyński, P., Mieleszczenko-Kowszewicz, W. & Biecek, P. (2024). Resistance Against Manipulative AI: key factors and possible actions. In: 27th European Conference on Artificial Intelligence. IOS Press.
+
 ## Punktacja
 max. 60 punktów:
 
