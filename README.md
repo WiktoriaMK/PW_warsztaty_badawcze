@@ -61,6 +61,10 @@ Artykuł bada pomiar i kształtowanie osobowości w dużych modelach językowych
 
 -Wilczyński, P., Mieleszczenko-Kowszewicz, W. & Biecek, P. (2024). Resistance Against Manipulative AI: key factors and possible actions. In: 27th European Conference on Artificial Intelligence. IOS Press.
 
+Artykuł "Resistance Against Manipulative AI" dotyczy problemu manipulacji ludźmi przez duże modele językowe (LLM). Przeprowadzono dwa główne eksperymenty: RAMAI-Human zbadał czynniki ludzkie wpływające na podatność na manipulację, odkrywając, że kluczowe jest wcześniejsze doświadczenie z podpowiedziami AI, a nie cechy demograficzne. RAMAI-LLM analizował zdolność LLM do generowania manipulacyjnych treści, pokazując różnice między modelami, przewagę logicznych strategii perswazji (logos) oraz lingwistyczne różnice między prawdziwymi a manipulacyjnymi podpowiedziami.
+Artykuł proponuje dwa rozwiązania: długoterminową edukację w zakresie AI (AI literacy) oraz krótkoterminowe narzędzie do wykrywania manipulacji – "Manipulation Fuse".
+
+
 ## Punktacja
 max. 60 punktów:
 
