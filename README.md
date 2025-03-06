@@ -68,6 +68,5 @@ max. 60 punktów:
    
 ## Komunikacja
 
-Grupa na Slacku: https://join.slack.com/share/enQtODUzNjA0NTgwOTAxMS00OTk1YWJkMTZlNzRhNjAyMjJjODk4OTI0ZWUxMTg5YWNiMzQ0MTMxODU3MDhkMDAzZmFmOWM0YjUxZjAxNTM1 
 
 
