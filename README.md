@@ -77,3 +77,21 @@ Slack, USOS
 
 Opis dokładnych deliverables na poszczególne kamienie milowe - TBD.
 
+# Punktacja za omówienie literatury (12 pkt)
+Ogólne streszczenie artykułu - 2 pkt
+Zastosowane metody - 2 pkt
+Przeprowadzone eksperymenty - 2  pkt
+Wyniki i wnioski - 2 pkt
+Limitations/ future works (na tym bazujemy plan badawczy do projektu) - 3 pkt
+O autorach i ich backgroundzie - 1 pkt
+Czas na prezentację literatury: 20min prezentacja + 5min pytania
+# Punktacja za KM1 (10 pkt)
+Opracowanie planu badawczego: 1-2 strony A4  (w sumie 8 pkt, podzielone jak poniżej)
+Pytanie badawcze - 2 pkt
+Opis wykorzystanych modeli - 1.5 pkt
+Opis promptów - 1.5 pkt
+Opis koncepcji osobowości - 2 pkt
+Podział pracy między członków zespołu - 1 pkt
+założenie repozytorium zespołu i udostępnienie prowadzącym (niezbędne do zaliczenia KM1)
+zaprezentowanie planu badawczego podczas zajęć 15.04: 10-15min na zespół - 2 pkt
+
