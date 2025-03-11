@@ -34,7 +34,7 @@ a) Promptowanie
 | 1  | [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models.](https://arxiv.org/abs/2402.02896 ) |  |  |
 | 2  | [Self-assessment tests are unreliable measures of llm personality.](https://aclanthology.org/2024.blackboxnlp-1.20/) | Gimzicka, Kukla, Skwarek  | 25.03.2025 r. |
 | 3  | [Do llms have distinct and consistent personality? TRAIT: Personality testset designed for llms with psychometrics.](https://arxiv.org/abs/2406.14703) |  |  |
-| 4  | [The Dark Patterns of Personalized Persuasion in Large Language Models: Exposing Persuasive Linguistic Features for Big Five Personality Traits in LLMs Responses.](https://arxiv.org/abs/2411.06008) |  |  |
+| 4  | [The Dark Patterns of Personalized Persuasion in Large Language Models: Exposing Persuasive Linguistic Features for Big Five Personality Traits in LLMs Responses.](https://arxiv.org/abs/2411.06008) | Adamczyk, Cwalina, Iwaniuk | 18.03.2005 |
 | 5  | [Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis.](https://arxiv.org/abs/2405.07248) | Florek, Sobociński, Pozorski | 18.03.2025 |
 | 6  | [Personality traits in large language models.](https://arxiv.org/abs/2307.00184) |  |  |
 | 7  | [Resistance Against Manipulative AI: key factors and possible actions.](https://arxiv.org/abs/2404.14230) |  |  |
