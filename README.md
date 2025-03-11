@@ -70,7 +70,43 @@ max. 60 punktów:
    - Prezentacja projektu -> 10 pkt
   
 Dodatkowe punkty mogą zostać przyznane za aktywność.
-   
+
+## Szczegóły dotyczące punktacji i wymagań na poszczególne deliverables
+### Omówienie literatury (12 pkt)
+- Ogólne streszczenie artykułu - 2 pkt
+- Zastosowane metody - 2 pkt
+- Przeprowadzone eksperymenty - 2  pkt
+- Wyniki i wnioski - 2 pkt
+- Limitations/ future works (na tej części powinien bazować poźniejszy plan badawczy projektu) - 3 pkt
+- O autorach artykułu - 1 pkt
+Czas na prezentację literatury: 20min prezentacja + 5min pytania
+### Punktacja za KM1 (10 pkt)
+- Przygotowanie opracowanego planu badawczego: 1-2 strony A4  (w sumie 8 pkt, podzielone jak poniżej)
+   - Pytanie badawcze - 2 pkt
+   - Jaki model/ jakie modele zostaną wykorzystane - 1.5 pkt
+   - Jakie prompty zostaną wykorzystane - 1.5 pkt
+   - Jakie koncepcje osobowości zostaną wykorzystane - 2 pkt
+   - Podział pracy między członków zespołu - 1 pkt
+- Założenie repozytorium zespołu i udostępnienie prowadzącym (niezbędne do zaliczenia KM1)
+- Zaprezentowanie planu badawczego podczas zajęć 15.04: 10-15 min na zespół (zostanie udostępniony formularz do zapisania się, w jakiej kolejności grupy będą prezentować; wtedy też podamy dokładną długość prezentacji - będzie zależeć od liczby grup) -> 2 pkt
+### Punktacja za KM2 (20 pkt)
+- Przygotowanie podsumowania prac: 4-6 stron A4 dokumentu lub Jupyter Notebook zawierającego (w sumie 13 pkt, podzielone jak poniżej):
+   - Opis co zostało wykonane w ramach projektu (cel badawczy, wykorzystane modele, cele i krótkie opisy eksperymentów) -> 3 pkt
+   - Rezultaty osiągnięte podczas eksperymentów -> 3 pkt
+   - Dyskusja: co wyszło, co nie, jakie problemy pojawiły się podczas pracy nad projektem -> 3 pkt
+   - Future works, potencjalne zastosowanie w biznesie, plan pracy na ostatnie kilka tygodni pracy nad projektem, podział pracy między członków zespołu -> 1pkt
+   - Uzasadnienie merytoryczne dlaczego taki cel badawczy został wybrany, dlaczego takie a nie inne metody i narzędzia zostały użyte, a eksperymenty przeprowadzone -> 3 pkt
+- Zaprezentowanie dotychczasowych efektów pracy podczas zajęć 12.05: 10-15min na zespół (zostanie udostępniony formularz do zapisania się, w jakiej kolejności grupy będą prezentować; wtedy też podamy dokładną długość prezentacji - będzie zależeć od liczby grup) -> 2 pkt
+- Udostępnienie kodu na repozytorium zespołu odzwierciedlającego opisywane eksperymenty i ich wyniki -> 5 pkt
+   - Wszystkie materiały dostarczone na repozytorium powinny pozwalać na bezproblemowe uruchomienie przestawionych eksperymentów oraz zreprodukowanie wyników
+### Punktacja za prezentację (10 pkt)
+- Wprowadzenie teoretyczne, cel, pytanie badawcze - 2 pkt
+- Zastosowane metody - 2 pkt
+- Opis eksperymentów - 1 pkt
+- Wyniki i wnioski - 2 pkt
+- Future works, potencjalne zastosowanie w biznesie - 2 pkt
+- Czytelność slajdów, poprawność wizualizacji - 1 pkt
+  
 ## Komunikacja
 
 Slack, USOS
