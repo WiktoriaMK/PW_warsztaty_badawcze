@@ -11,3 +11,11 @@ Zachęcamy do eksperymentowania z promptami, różnymi parametrami modeli oraz r
 ### Deadline
 
 16.03.2025 23.59
+
+## Praca domowa Psychologia
+
+Na maila otrzymacie Państwo plik z kwestionariuszem psychologicznym. Zadanie polega na spromptowaniu wybranego LLM-a (przez API lub lokalnie postawionego) pytaniami zawartymi w kwestionariuszu. (2 pkt) 
+Następnie proszę obliczyć wyniki na poszczególnych skalach (2 pkt). 
+
+### Co dostarczyć:
+- kod w Jupyter Notebook (promptowanie + obliczanie skal) 
