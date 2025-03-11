@@ -40,6 +40,7 @@ a) Promptowanie
 | 7  | [Resistance Against Manipulative AI: key factors and possible actions.](https://arxiv.org/abs/2404.14230) |  |  |
 | 8  | [Can LLM "Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots.](https://arxiv.org/abs/2412.00207) |  |  |
 | 9  | [The better angels of machine personality: How personality relates to llm safety.](https://arxiv.org/abs/2407.12344) |  |  |
+| 10 | [Evaluating large language models in theory of mind tasks](https://arxiv.org/pdf/2302.02083) | Opala, Pytel, Rogalska | 25.03.2025 r. |
 
 UWAGA: Trzy grupy powinny się zgłosić do prezentacji na 18 marca i dwie grupy na 25 marca.
 
@@ -56,6 +57,7 @@ UWAGA: Trzy grupy powinny się zgłosić do prezentacji na 18 marca i dwie grupy
 | 7 | Wilczyński, P., Mieleszczenko-Kowszewicz, W. & Biecek, P. (2024) | [Resistance Against Manipulative AI: key factors and possible actions. In: 27th European Conference on Artificial Intelligence. IOS Press.](https://arxiv.org/abs/2404.14230) | Artykuł "Resistance Against Manipulative AI" dotyczy problemu manipulacji ludźmi przez duże modele językowe (LLM). |
 | 8 | Zou, H., Wang, P., Yan, Z., Sun, T., & Xiao, Z. (2024) | [Can LLM" Self-report"?: Evaluating the Validity of Self-report Scales in Measuring Personality Design in LLM-based Chatbots.](https://arxiv.org/abs/2412.00207) | Artykuł ten dotyczy badania, w jaki sposób można ocenić osobowość chatbotów z perspektywy człowieka, rekrutując uczestników do interakcji z chatbotami i wypełniania kwestionariuszy oceny osobowości oraz kwestionariuszy doświadczeń użytkownika. |
 | 9 | Zhang, J., Liu, D., Qian, C., Gan, Z., Liu, Y., Qiao, Y., & Shao, J. (2024) | [The better angels of machine personality: How personality relates to llm safety.](https://arxiv.org/abs/2407.12344) |Artykuł analizuje, jak można kontrolować i edytować cechy osobowości w LLM, używając techniki wektorów sterujących. Bada, jak różne ustawienia, takie jak język i kolejność opcji, wpływają na ocenę MBTI (Myers-Briggs Type Indicator) dla LLM. W badaniu wykorzystano chińskie i angielskie wersje kwestionariusza MBTI-M, aby ocenić wyniki osobowości LLM w różnych kontekstach kulturowych. |
+| 10 | Kosinski, M., (2024) | [Evaluating large language models in theory of mind tasks](https://arxiv.org/pdf/2302.02083) | Badanie teorii umysłu różnych LLMów | 
 
 ## Punktacja
 max. 60 punktów:
