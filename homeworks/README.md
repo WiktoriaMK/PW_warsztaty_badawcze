@@ -19,3 +19,7 @@ Następnie proszę obliczyć wyniki na poszczególnych skalach (2 pkt).
 
 ### Co dostarczyć:
 - kod w Jupyter Notebook (promptowanie + obliczanie skal) 
+
+### Deadline
+
+31.03.2025 23.59
