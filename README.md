@@ -79,6 +79,7 @@ Dodatkowe punkty mogą zostać przyznane za aktywność.
 - Wyniki i wnioski - 2 pkt
 - Limitations/ future works (na tej części powinien bazować poźniejszy plan badawczy projektu) - 3 pkt
 - O autorach artykułu - 1 pkt
+  
 Czas na prezentację literatury: 20min prezentacja + 5min pytania
 ### Punktacja za KM1 (10 pkt)
 - Przygotowanie opracowanego planu badawczego: 1-2 strony A4  (w sumie 8 pkt, podzielone jak poniżej)
@@ -96,7 +97,7 @@ Czas na prezentację literatury: 20min prezentacja + 5min pytania
    - Dyskusja: co wyszło, co nie, jakie problemy pojawiły się podczas pracy nad projektem -> 3 pkt
    - Future works, potencjalne zastosowanie w biznesie, plan pracy na ostatnie kilka tygodni pracy nad projektem, podział pracy między członków zespołu -> 1pkt
    - Uzasadnienie merytoryczne dlaczego taki cel badawczy został wybrany, dlaczego takie a nie inne metody i narzędzia zostały użyte, a eksperymenty przeprowadzone -> 3 pkt
-- Zaprezentowanie dotychczasowych efektów pracy podczas zajęć 12.05: 10-15min na zespół (zostanie udostępniony formularz do zapisania się, w jakiej kolejności grupy będą prezentować; wtedy też podamy dokładną długość prezentacji - będzie zależeć od liczby grup) -> 2 pkt
+- Zaprezentowanie dotychczasowych efektów pracy podczas zajęć 20.05: 10-15min na zespół (zostanie udostępniony formularz do zapisania się, w jakiej kolejności grupy będą prezentować; wtedy też podamy dokładną długość prezentacji - będzie zależeć od liczby grup) -> 2 pkt
 - Udostępnienie kodu na repozytorium zespołu odzwierciedlającego opisywane eksperymenty i ich wyniki -> 5 pkt
    - Wszystkie materiały dostarczone na repozytorium powinny pozwalać na bezproblemowe uruchomienie przestawionych eksperymentów oraz zreprodukowanie wyników
 ### Punktacja za prezentację (10 pkt)
@@ -113,5 +114,5 @@ Slack, USOS
 
 ## Projekty
 
-Opis dokładnych deliverables na poszczególne kamienie milowe - TBD.
+Opis dokładnych deliverables na poszczególne kamienie milowe - jak wyżej.
 
