@@ -1,0 +1,172 @@
+[
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Fgflu qmbdfcp up akbxjtlp, x lu\u00f3szn mveajf pedavxbk\u0105 qpqsbx\u0119 aespxjb qp qsazk\u0119djv tvctubodkj cfa x\u0142b\u015bdjxp\u015bdj mfdaojdazdi, qpojfxb\u017c xjfsa\u0105, \u017cf pob eajb\u0142b.",
+        "completion": "Efekt placebo to zjawisko, w kt\u00f3rym ludzie odczuwaj\u0105 popraw\u0119 zdrowia po przyj\u0119ciu substancji bez w\u0142a\u015bciwo\u015bci leczniczych, poniewa\u017c wierz\u0105, \u017ce ona dzia\u0142a."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Nwfbmk o\u00f3bi lguv pgwtqrncuvaebpa, eq qbpcebc, \u017cg oq\u017cg uk\u0119 bokgpkc\u0107 k fquvquqyayc\u0107 rtbgb ec\u0142g \u017caekg y qfrqykgfbk pc fq\u015bykcfebgpkc.",
+        "completion": "M\u00f3zg\u00f3w ludzki jest neuroplastyczny, co oznacza, \u017ce mo\u017ce si\u0119 zmienia\u0107 i dostosowywa\u0107 przez ca\u0142e \u017cycie w odpowiedzi na do\u015bwiadczenia."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Hnvshubphqw Plojudpd zbndcd\u0142, \u017ch oxgclh v\u0105 vn\u0142rqql srgsruc\u0105gnrzd\u0107 vl\u0119 dxwrubwhwrzl qdzhw zwhgb, jgb lfk gcld\u0142dqld prj\u0105 vnucbzgcl\u0107 lqqbfk.",
+        "completion": "Eksperyment Milgrama wykaza\u0142, \u017ce ludzie s\u0105 sk\u0142onni podporz\u0105dkowa\u0107 si\u0119 autorytetowi nawet wtedy, gdy ich dzia\u0142ania mog\u0105 skrzywdzi\u0107 innych."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Ijiox vsdtvswdsrin shtsamihdmeprs\u015bgm wtveame, \u017ci pyhdmi w\u0105 qrmin wo\u0142srrm hs yhdmiperme tsqsgc, khc aso\u00f3\u0142 drenhyni wm\u0119 am\u0119gin sw\u00f3f \u2013 deo\u0142ehen\u0105, \u017ci oxs\u015b mrrc xs dvsfm.",
+        "completion": "Kiedy przeanalizuj\u0119 wzorce liter, d\u0142ugo\u015bci s\u0142\u00f3w i kontekst, wnioskuj\u0119 \u017ce ten tekst zosta\u0142 zaszyfrowany z przesuni\u0119ciem. Po rozszyfrowaniu tekst brzmi:  Efekt rozproszenia odpowiedzialno\u015bci sprawia, \u017ce ludzie s\u0105 mniej sk\u0142onni do udzielenia pomocy, gdy wok\u00f3\u0142 znajduje si\u0119 wi\u0119cej os\u00f3b \u2013 zak\u0142adaj\u0105, \u017ce kto\u015b inny to zrobi."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Qzienj efufrn\u0119yzo\u0105 qjunjo uthe\u0105yjp n ptsnjh qnxyd nsktwrfhon, ht ojxy esfsj ofpt jkjpy unjwbxej\u0144xybf n jkjpy \u015bbnj\u017ct\u015bhn.",
+        "completion": "Dzieci zazwyczaj staraj\u0105 uzna\u0107 w ca\u0142o\u015b\u0107 pewne informacje, co jest znane jako efekt pierwsze\u0144stwa i efekt \u015bwie\u017co\u015bci."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "J\u0142amuzxcg\u0142e yzxky su\u017ck vxucgjfo\u0107 ju vxuhrks\u00f3c fjxucuztein, zgqoin pgq inuxuhe ykxig, uy\u0142ghoktok aq\u0142gja ujvuxtu\u015biouckmu o jkvxkypg.",
+        "completion": "D\u0142ugotrwa\u0142y stres mo\u017ce prowadzi\u0107 do problem\u00f3w zdrowotnych, takich jak choroby serca, os\u0142abienie uk\u0142adu odporno\u015bciowego i depresja."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Ltvjql dw\u0142fdhq\u0105 uh wyvjlzf wvguhdjgl, ahrpl qhr whtp\u0119\u0107 p wvklqtvdhupl kljfgqp \u2013 zpsuf zaylz tv\u017cl baybkuph\u0107 svnpjgul tf\u015bslupl.",
+        "completion": "Bardzo dok\u0142adnie przeanalizowa\u0142em zaszyfrowany tekst. Wygl\u0105da na to, \u017ce jest to szyfr przesuwaj\u0105cy znaki (szyfr Cezara) z przesuni\u0119ciem o 7 miejsc w alfabecie.  Po rozszyfrowaniu tekst brzmi:  Emocje wp\u0142ywaj\u0105 na procesy poznawcze, takie jak pami\u0119\u0107 i podejmowanie decyzji \u2013 silny stres mo\u017ce utrudnia\u0107 logiczne my\u015blenie."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Bmwzqi qvbmtqomvkrq eqmtwzisqmr Pweizli Oizlvmzi acomzcrm, \u017cm qabvqmrm eqmtm zwlhir\u00f3e qvbmtqomvkrq, vx. tqvoeqabgkhvi, uibmuibgkhvw-twoqkhvi khg qvbmzxmzawvitvi.",
+        "completion": "Teoria inteligencji wielorakiej Howarda Gardnera sugeruje, \u017ce istnieje wiele rodzaj\u00f3w inteligencji, np. lingwistyczna, matematyczno-logiczna czy interpersonalna."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Udmirn b\u0105 kjamirns bt\u0142xwwr frnaih\u0107 rwoxavjlsxv, tc\u00f3an yxcfrnamijs\u0105 rlq flin\u015bwrnsbin yaintxwjwrj, lx snbc iwjwn sjtx nontc yxcfrnaminwrj.",
+        "completion": "S\u0142owem s\u0105 kodowane systemy ukrywania informacji, kt\u00f3re potwierdzaj\u0105 ich wcze\u015bniejsze przetwarzania, co jest znane jako efekt potwierdzenia."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Cox ynqbigk uvemjyg\u0105 byv\u0119 g uyxcyvsnkmts zkws\u0119ms, k toqy lbku wy\u017co zbygknjs\u0107 ny zbylvow\u00f3g j uyxmoxdbkmt\u0105 s xkeu\u0105.",
+        "completion": "Aby z\u0142ama\u0107 szyfr, przeanalizuj\u0119 cz\u0119stotliwo\u015b\u0107 liter, d\u0142ugo\u015b\u0107 s\u0142\u00f3w i potencjalne wzorce, szukaj\u0105c przesuni\u0119cia charakterystycznego dla szyfru Cezara.  Po analizie statystycznej i testowaniu r\u00f3\u017cnych przesuni\u0119\u0107, rozszyfrowuj\u0119 tekst:  Sen nabiera kluczow\u0105 rol\u0119 w konsolidacji pami\u0119ci, a jego brak mo\u017ce prowadzi\u0107 do problem\u00f3w z koncentracj\u0105 i nauk\u0105."
+    }
+]

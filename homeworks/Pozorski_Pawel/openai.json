@@ -1,0 +1,172 @@
+[
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Fgflu qmbdfcp up akbxjtlp, x lu\u00f3szn mveajf pedavxbk\u0105 qpqsbx\u0119 aespxjb qp qsazk\u0119djv tvctubodkj cfa x\u0142b\u015bdjxp\u015bdj mfdaojdazdi, qpojfxb\u017c xjfsa\u0105, \u017cf pob eajb\u0142b.",
+        "completion": "\u201cKa\u017cdy moment to szansa, by zrobi\u0107 co\u015b wielkiego, poniewa\u017c jeste\u015b, tu na ziemi.\u201d"
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Nwfbmk o\u00f3bi lguv pgwtqrncuvaebpa, eq qbpcebc, \u017cg oq\u017cg uk\u0119 bokgpkc\u0107 k fquvquqyayc\u0107 rtbgb ec\u0142g \u017caekg y qfrqykgfbk pc fq\u015bykcfebgpkc.",
+        "completion": "\u201eKa\u017cdemu kto ufa zbyt pochopnie, bo grozi, \u017ce mo\u017ce si\u0119 zawie\u015b\u0107 i pozosta\u0107 sam na zawsze w samotno\u015bci.\u201d"
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Hnvshubphqw Plojudpd zbndcd\u0142, \u017ch oxgclh v\u0105 vn\u0142rqql srgsruc\u0105gnrzd\u0107 vl\u0119 dxwrubwhwrzl qdzhw zwhgb, jgb lfk gcld\u0142dqld prj\u0105 vnucbzgcl\u0107 lqqbfk.",
+        "completion": "Kryptografia Milgrama wskazuje, \u017ce ludzie s\u0105 sk\u0142onni podporz\u0105dkowa\u0107 si\u0119 autorytetowi nawet wtedy, gdy ich dzia\u0142ania mog\u0105 wyrz\u0105dzi\u0107 innym."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Ijiox vsdtvswdsrin shtsamihdmeprs\u015bgm wtveame, \u017ci pyhdmi w\u0105 qrmin wo\u0142srrm hs yhdmiperme tsqsgc, khc aso\u00f3\u0142 drenhyni wm\u0119 am\u0119gin sw\u00f3f \u2013 deo\u0142ehen\u0105, \u017ci oxs\u015b mrrc xs dvsfm.",
+        "completion": "Ka\u017cdy cz\u0142owiek niesie w sobie \u015bwiat\u0142o, \u017ce mo\u017ce je czyni\u0107 dobrem lub z\u0142em \u2013 zale\u017cnie, w jakim si\u0119 znajdzie."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Qzienj efufrn\u0119yzo\u0105 qjunjo uthe\u0105yjp n ptsnjh qnxyd nsktwrfhon, ht ojxy esfsj ofpt jkjpy unjwbxej\u0144xybf n jkjpy \u015bbnj\u017ct\u015bhn.",
+        "completion": "Kiedy spogl\u0105damy w nocne niebo, to mamy okazj\u0119 ujrze\u0107 gwiazdozbiory i gwiazdy."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "J\u0142amuzxcg\u0142e yzxky su\u017ck vxucgjfo\u0107 ju vxuhrks\u00f3c fjxucuztein, zgqoin pgq inuxuhe ykxig, uy\u0142ghoktok aq\u0142gja ujvuxtu\u015biouckmu o jkvxkypg.",
+        "completion": "Przestrze\u0144 wok\u00f3\u0142 nas wype\u0142nia si\u0119 d\u017awi\u0119kami, kt\u00f3re s\u0105 r\u00f3\u017cne, zale\u017cno\u015bci od miejsca i chwili."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Ltvjql dw\u0142fdhq\u0105 uh wyvjlzf wvguhdjgl, ahrpl qhr whtp\u0119\u0107 p wvklqtvdhupl kljfgqp \u2013 zpsuf zaylz tv\u017cl baybkuph\u0107 svnpjgul tf\u015bslupl.",
+        "completion": "Czasem my\u015blimy o przysz\u0142o\u015bci, lecz nie mamy w rzeczywisto\u015bci pewno\u015bci \u2013 jakie b\u0119d\u0105 nasze decyzje w \u017cyciu."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Bmwzqi qvbmtqomvkrq eqmtwzisqmr Pweizli Oizlvmzi acomzcrm, \u017cm qabvqmrm eqmtm zwlhir\u00f3e qvbmtqomvkrq, vx. tqvoeqabgkhvi, uibmuibgkhvw-twoqkhvi khg qvbmzxmzawvitvi.",
+        "completion": "Cz\u0119sto zastanawiamy si\u0119 nad tym, jakie decyzje podejmujemy, np. moralnie, etycznie-kulturowo lub spo\u0142ecznie."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Udmirn b\u0105 kjamirns bt\u0142xwwr frnaih\u0107 rwoxavjlsxv, tc\u00f3an yxcfrnamijs\u0105 rlq flin\u015bwrnsbin yaintxwjwrj, lx snbc iwjwn sjtx nontc yxcfrnaminwrj.",
+        "completion": "Trudno o pewno\u015b\u0107 wobec naszych wybor\u00f3w, kt\u00f3re podejmujemy na podstawie emocji lub ich pe\u0142nej analizy."
+    },
+    {
+        "prompt": {
+            "name": "podstawowy",
+            "history": [
+                {
+                    "role": "system",
+                    "content": "Jeste\u015b do\u015bwiadczonym kryptografem i lingwist\u0105 specjalizuj\u0105cym si\u0119 w \u0142amaniu szyfr\u00f3w. Analizujesz teksty pod k\u0105tem statystycznym, gramatycznym i kontekstowym, aby znale\u017a\u0107 wzorce i mo\u017cliwe metody deszyfrowania."
+                },
+                {
+                    "role": "user",
+                    "content": "Mam tekst w j\u0119zyku polskim zaszyfrowany prostym szyfrem (np. szyfr Cezara). Wiem \u017ce wynik r\u00f3wnie\u017c jest w j\u0119zyku polskim, oraz \u017ce ma tyle samo s\u0142\u00f3w co zaszyfrowant tekst oraz \u017ce ka\u017cde z odszyfrowanych s\u0142\u00f3w jest tej samej d\u0142ugo\u015bci."
+                }
+            ]
+        },
+        "task": "Cox ynqbigk uvemjyg\u0105 byv\u0119 g uyxcyvsnkmts zkws\u0119ms, k toqy lbku wy\u017co zbygknjs\u0107 ny zbylvow\u00f3g j uyxmoxdbkmt\u0105 s xkeu\u0105.",
+        "completion": "Gdy patrzymy wstecz na to, co si\u0119 sta\u0142o, i jakie mamy mo\u017cliwo\u015bci na przysz\u0142o\u015b\u0107."
+    }
+]
