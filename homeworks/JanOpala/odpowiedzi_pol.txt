@@ -1,0 +1,13 @@
+Gemma12: 
+Fragment tekstu to: "Fragment tekstu jest przykładem szyfrowania Cezara, w którym każda litera jest przesuwana o stałą liczbę pozycji."
+Mamy tutaj bardzo ważny dokument dotyczący bezpieczeństwa państwa.
+Wczorajsza pogoda sprawiła, że mogłem wyjść na spacer po lesie, aby podziwiać piękno natury.
+Książka jest bardzo interesująca i warta przeczytania, ponieważ zawiera wiele cennych informacji – szczególnie, że autor zna temat.
+Wczoraj wieczorem czytałem książkę o programowaniu, ale bardzo się męczyłem, ponieważ była bardzo trudna.
+Wiem, że jesteś bardzo zdeterminowany, aby rozwiązać ten problem.
+Sprawdzam czy to prawda, że jesteśmy w stanie zrozumieć, co chcemy przekazać, aby móc dalej komunikować się z tobą.
+Bardzo ważne jest, aby pamiętać o znaczeniu bezpieczeństwa danych.
+Umiem być jakimś błyszczącym klejnotem, ponieważ jestem wspaniałym wynalazcą, jestem też pewien.
+Cały ten tekst jest przykładem szyfru Cezara z przesunięciem 7: Cały ten tekst jest przykładem szyfru Cezara z przesunięciem 7.
+Mistral: 
+Gemma4: 
