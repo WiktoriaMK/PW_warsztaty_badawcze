@@ -31,10 +31,10 @@ a) Promptowanie
 
 | lp | Tytuł artykułu | Grupa | Data prezentacji |
 |----|--------------|-----------------|-----------------|
-| 1  | [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models.](https://arxiv.org/abs/2402.02896 ) |  |  |
+| 1  | [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models.](https://arxiv.org/abs/2402.02896 ) | Warno, Baraniak | 25.03.2025 |
 | 2  | [Self-assessment tests are unreliable measures of llm personality.](https://aclanthology.org/2024.blackboxnlp-1.20/) | Gimzicka, Kukla, Skwarek  | 25.03.2025 r. |
 | 3  | [Do llms have distinct and consistent personality? TRAIT: Personality testset designed for llms with psychometrics.](https://arxiv.org/abs/2406.14703) |  |  |
-| 4  | [The Dark Patterns of Personalized Persuasion in Large Language Models: Exposing Persuasive Linguistic Features for Big Five Personality Traits in LLMs Responses.](https://arxiv.org/abs/2411.06008) | Adamczyk, Cwalina, Iwaniuk | 18.03.2005 |
+| 4  | [The Dark Patterns of Personalized Persuasion in Large Language Models: Exposing Persuasive Linguistic Features for Big Five Personality Traits in LLMs Responses.](https://arxiv.org/abs/2411.06008) | Adamczyk, Cwalina, Iwaniuk | 18.03.2025 |
 | 5  | [Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis.](https://arxiv.org/abs/2405.07248) | Florek, Sobociński, Pozorski | 18.03.2025 |
 | 6  | [Personality traits in large language models.](https://arxiv.org/abs/2307.00184) |  |  |
 | 7  | [Resistance Against Manipulative AI: key factors and possible actions.](https://arxiv.org/abs/2404.14230) |  |  |
@@ -89,7 +89,7 @@ Czas na prezentację literatury: 20min prezentacja + 5min pytania
    - Jakie koncepcje psychologiczne zostaną wykorzystane - 2 pkt
    - Podział pracy między członków zespołu - 1 pkt
 - Założenie repozytorium zespołu i udostępnienie prowadzącym (niezbędne do zaliczenia KM1) - repozytoria prywatne
-- Zaprezentowanie planu badawczego podczas zajęć 29.04: 10-15 min na zespół (zostanie udostępniony formularz do zapisania się, w jakiej kolejności grupy będą prezentować; wtedy też podamy dokładną długość prezentacji - będzie zależeć od liczby grup) -> 2 pkt
+- Zaprezentowanie planu badawczego podczas zajęć 29.04: 12 min na prezentację + 3 min na pytania (zostanie udostępniony formularz do zapisania się - na Slacku) -> 2 pkt
 ### Punktacja za KM2 (20 pkt)
 - Przygotowanie podsumowania prac: 4-6 stron A4 dokumentu lub Jupyter Notebook zawierającego (w sumie 13 pkt, podzielone jak poniżej):
    - Opis co zostało wykonane w ramach projektu (cel badawczy, wykorzystane modele, cele i krótkie opisy eksperymentów) -> 3 pkt
@@ -97,7 +97,7 @@ Czas na prezentację literatury: 20min prezentacja + 5min pytania
    - Dyskusja: co wyszło, co nie, jakie problemy pojawiły się podczas pracy nad projektem -> 3 pkt
    - Future works, potencjalne zastosowanie w biznesie, plan pracy na ostatnie kilka tygodni pracy nad projektem, podział pracy między członków zespołu -> 1pkt
    - Uzasadnienie merytoryczne dlaczego taki cel badawczy został wybrany, dlaczego takie a nie inne metody i narzędzia zostały użyte, a eksperymenty przeprowadzone -> 3 pkt
-- Zaprezentowanie dotychczasowych efektów pracy podczas zajęć 20.05: 10-15min na zespół (zostanie udostępniony formularz do zapisania się, w jakiej kolejności grupy będą prezentować; wtedy też podamy dokładną długość prezentacji - będzie zależeć od liczby grup) -> 2 pkt
+- Zaprezentowanie dotychczasowych efektów pracy podczas zajęć 20.05: 12 min na prezentację + 3 min na pytania (zostanie udostępniony formularz do zapisania się - na Slacku) -> 2 pkt
 - Udostępnienie kodu na repozytorium zespołu odzwierciedlającego opisywane eksperymenty i ich wyniki -> 5 pkt
    - Wszystkie materiały dostarczone na repozytorium powinny pozwalać na bezproblemowe uruchomienie przestawionych eksperymentów oraz zreprodukowanie wyników
 ### Punktacja za prezentację (10 pkt)
