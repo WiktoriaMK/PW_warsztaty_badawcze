@@ -88,8 +88,8 @@ Czas na prezentację literatury: 20min prezentacja + 5min pytania
    - Jakie prompty zostaną wykorzystane - 1.5 pkt
    - Jakie koncepcje psychologiczne zostaną wykorzystane - 2 pkt
    - Podział pracy między członków zespołu - 1 pkt
-- Założenie repozytorium zespołu i udostępnienie prowadzącym (niezbędne do zaliczenia KM1)
-- Zaprezentowanie planu badawczego podczas zajęć 15.04: 10-15 min na zespół (zostanie udostępniony formularz do zapisania się, w jakiej kolejności grupy będą prezentować; wtedy też podamy dokładną długość prezentacji - będzie zależeć od liczby grup) -> 2 pkt
+- Założenie repozytorium zespołu i udostępnienie prowadzącym (niezbędne do zaliczenia KM1) - repozytoria prywatne
+- Zaprezentowanie planu badawczego podczas zajęć 29.04: 10-15 min na zespół (zostanie udostępniony formularz do zapisania się, w jakiej kolejności grupy będą prezentować; wtedy też podamy dokładną długość prezentacji - będzie zależeć od liczby grup) -> 2 pkt
 ### Punktacja za KM2 (20 pkt)
 - Przygotowanie podsumowania prac: 4-6 stron A4 dokumentu lub Jupyter Notebook zawierającego (w sumie 13 pkt, podzielone jak poniżej):
    - Opis co zostało wykonane w ramach projektu (cel badawczy, wykorzystane modele, cele i krótkie opisy eksperymentów) -> 3 pkt
