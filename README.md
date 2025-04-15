@@ -86,7 +86,7 @@ Czas na prezentację literatury: 20min prezentacja + 5min pytania
    - Pytanie badawcze - 2 pkt
    - Jaki model/ jakie modele zostaną wykorzystane - 1.5 pkt
    - Jakie prompty zostaną wykorzystane - 1.5 pkt
-   - Jakie koncepcje osobowości zostaną wykorzystane - 2 pkt
+   - Jakie koncepcje psychologiczne zostaną wykorzystane - 2 pkt
    - Podział pracy między członków zespołu - 1 pkt
 - Założenie repozytorium zespołu i udostępnienie prowadzącym (niezbędne do zaliczenia KM1)
 - Zaprezentowanie planu badawczego podczas zajęć 15.04: 10-15 min na zespół (zostanie udostępniony formularz do zapisania się, w jakiej kolejności grupy będą prezentować; wtedy też podamy dokładną długość prezentacji - będzie zależeć od liczby grup) -> 2 pkt
