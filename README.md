@@ -75,7 +75,7 @@ Czas na prezentację literatury: 20min prezentacja + 5min pytania
 
 | lp | Tytuł artykułu | Grupa | Godzina prezentacji |
 |----|--------------|-----------------|-----------------|
-| 1  | ... | ... | 14.20-14.35 |
+| 1  | [LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models.](https://arxiv.org/abs/2402.02896 ) | Warno, Baraniak | 14.20-14.35 |
 | 2  | ... | ... | 14.35-14.50 |
 | 3  | ... | ... | 14.50-15.05 |
 | 4  | ... | ... | 15.05-15.20 |
