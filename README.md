@@ -13,6 +13,7 @@ Zajęcia mają miejsce we wtorki **14.15-15.45**.
 - 2025-04-15 - Konsultacje projektów indywidualnych (stacjonarnie)  [UPDATE]
 - 2025-04-29 - Przedstawienie postępów projektów  -> **Kamień milowy nr 1** [UPDATE]
 - 2025-05-06 - Konsultacje projektów indywidualnych (on-line)
+- 2025-05-13 - **Obecność obowiązkowa** Prace przygotowujące do KM2 + opcjonalne konsultacje 
 - 2025-05-20 - Przedstawienie postępów projektów -> **Kamień milowy nr 2**
 - 2025-05-27 - Konsultacje projektów indywidualnych
 - 2025-06-03 - **Prezentacje** finalnych projektów
