@@ -98,7 +98,7 @@ Czas na prezentację literatury: 20min prezentacja + 5min pytania
 | lp | Tytuł artykułu | Grupa | Godzina prezentacji |
 |----|--------------|-----------------|-----------------|
 | 1  | ... | ... | 14.20-14.35 |
-| 2  | ... | ... | 14.35-14.50 |
+| 2  | [Evaluating large language models in theory of mind tasks](https://arxiv.org/pdf/2302.02083)| Rogalska, Opala, Pytel | 14.35-14.50 |
 | 3  | ... | ... | 14.50-15.05 |
 | 4  | ... | ... | 15.05-15.20 |
 | 5  | ... | ... | 15.20-15.35 |
