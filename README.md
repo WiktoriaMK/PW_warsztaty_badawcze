@@ -104,12 +104,7 @@ Czas na prezentację literatury: 20min prezentacja + 5min pytania
 | 5  | [Limited Ability of LLMs to Simulate Human Psychological Behaviours: a Psychometric Analysis.](https://arxiv.org/abs/2405.07248) | Florek, Pozorski, Sobociński | 15.20-15.35 |
   
 ### Punktacja za prezentację (10 pkt)
-- Wprowadzenie teoretyczne, cel, pytanie badawcze - 2 pkt
-- Zastosowane metody - 2 pkt
-- Opis eksperymentów - 1 pkt
-- Wyniki i wnioski - 2 pkt
-- Future works, potencjalne zastosowanie w biznesie - 2 pkt
-- Czytelność slajdów, poprawność wizualizacji - 1 pkt
+Ocena według kryteriów z wykładu.
   
 ## Komunikacja
 
